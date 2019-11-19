@@ -6,3 +6,6 @@ git commit -m "mensaje para el commit
 
 
 esto estamos en otra rama
+
+
+pues menuda puta mierda de conflicto
