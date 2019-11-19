@@ -1,0 +1,5 @@
+Rubén es un alcachofo
+
+git add sube el archivo al workspace
+
+git commit -m "mensaje para el commit"
